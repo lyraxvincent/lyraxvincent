@@ -1,19 +1,7 @@
 ------------------
 ```python
-Hi, I'm
 
-    @@@  @@@  @@@  @@@  @@@   @@@@@@@  @@@@@@@@  @@@  @@@  @@@@@@@
-    @@@  @@@  @@@  @@@@ @@@  @@@@@@@@  @@@@@@@@  @@@@ @@@  @@@@@@@
-    @@!  @@@  @@!  @@!@!@@@  !@@       @@!       @@!@!@@@    @@!
-    !@!  @!@  !@!  !@!!@!@!  !@!       !@!       !@!!@!@!    !@!
-    @!@  !@!  !!@  @!@ !!@!  !@!       @!!!:!    @!@ !!@!    @!!
-    !@!  !!!  !!!  !@!  !!!  !!!       !!!!!:    !@!  !!!    !!!
-    :!:  !!:  !!:  !!:  !!!  :!!       !!:       !!:  !!!    !!:
-     ::!!:!   :!:  :!:  !:!  :!:       :!:       :!:  !:!    :!:
-      ::::     ::   ::   ::   ::: :::   :: ::::   ::   ::     ::
-       :      :    ::    :    :: :: :  : :: ::   ::    :      :
-
-A Data Scientist with proficiency in {'Python programming': ['...', 'Numpy', 'Pandas',
+Hi, I'm a Data Scientist with proficiency in {'Python programming': ['...', 'Numpy', 'Pandas',
     'Matplotlib', 'Seaborn', '...'], 'Machine Learning': 'Scikit-Learn', 'Deep Learning', 'NLP'}
 
 Welcome to my Github!
